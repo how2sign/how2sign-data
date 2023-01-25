@@ -16,7 +16,7 @@ train_raw_videos.z06            https://dataverse.csuc.cat/api/access/datafile/4
 train_raw_videos.z07            https://dataverse.csuc.cat/api/access/datafile/45482    video_level/train/rgb_front/    27506f9f3503dcbfc17226bfebe34b8d
 train_raw_videos.z08            https://dataverse.csuc.cat/api/access/datafile/45483    video_level/train/rgb_front/    fd72e0cd31fb315e8257d6d3f1ed5cf3
 train_raw_videos.z09            https://dataverse.csuc.cat/api/access/datafile/45572    video_level/train/rgb_front/    20fa6612f98a988c8be4772b0a02506b
-train_side_raw_videos.zip       https://dataverse.csuc.cat/api/access/datafile/45484    video_level/train/rgb_side/     39128b15d5621d4d3250389231ca72ba
+train_rgb_side_raw_videos.zip   https://dataverse.csuc.cat/api/access/datafile/45484    video_level/train/rgb_side/     39128b15d5621d4d3250389231ca72ba
 train_rgb_side_raw_videos.z01   https://dataverse.csuc.cat/api/access/datafile/45565    video_level/train/rgb_side/     f3a1d24d8316f214441816e160a47f2a
 train_rgb_side_raw_videos.z02   https://dataverse.csuc.cat/api/access/datafile/45567    video_level/train/rgb_side/     5c468d7ed92a95a51cd075da137a1e03
 train_rgb_side_raw_videos.z03   https://dataverse.csuc.cat/api/access/datafile/45569    video_level/train/rgb_side/     e8d2d53b04abc6eb2bac37b7755b0706
